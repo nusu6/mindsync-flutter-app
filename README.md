@@ -1,16 +1,68 @@
-# mindsync
+# 📱 MindSync – Flutter Lifestyle App
 
-A new Flutter project.
+MindSync is a cross-platform Flutter application designed to help users maintain mental well-being through a digital diary with automated mood detector, mood tracking, and habit tracking system.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 📝 Digital diary with history view
+- 😊 Mood tracking (daily entries)
+- 🔁 Habit tracking
+- 📅 Calendar-based diary view
+- 💾 Local data storage
+- 📱 Cross-platform (Android & iOS)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- SQLite / Local Storage
+- Material UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home](screenshots/home.png)
+
+### 📝 Diary Entry
+![Diary](screenshots/diary.png)
+
+### 😊 Mood Tracker
+![Mood](screenshots/mood.png)
+
+### 📅 Calendar View
+![Calendar](screenshots/calendar.png)
+
+---
+
+## ⚙️ How to Run the Project
+
+1. Clone the repository
+
+git clone https://github.com/USERNAME/mind-sync-flutter-app.git
+
+2. Navigate to the project directory
+cd mind-sync-flutter-app
+
+3. Install dependencies
+flutter pub get
+
+4. Run the app
+flutter run
+
+📂 Project Structure
+
+lib/
+├── main.dart
+├── screens/
+├── widgets/
+├── models/
+└── services/
+
+
+👩‍💻 Author
+Noshin Nazia
+CSE, Patuakhali Science & Technology University
